@@ -8,4 +8,4 @@ Fortunately, this will help us learn one more importanst skill: data scraping.
 
 Data scraping (more specifically, web scraping) is all about programatically extracting data available from online sources, transforming it into a format that we need, and storing it at our end.
 
-We will scrap stats of players in FIFA 20 from https://sofifa.com. The code and explanation are available in [this](./scraping.ipynb) notebook.
+We will scrap stats of players in FIFA 20 from https://sofifa.com. The code and explanation are available in [this](./web-scraping.ipynb) notebook.
