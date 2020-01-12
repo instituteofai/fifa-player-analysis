@@ -3,7 +3,7 @@ Find players similar to those in your football club
 
 ## Outline
 
-1. Scrap **FIFA 20** data from https://sofifa.com/. See [this](https://github.com/amanthedorkknight/fifa18-all-player-statistics) repository for reference.
+1. Scrape **FIFA 20** data from https://sofifa.com/. See [this](https://github.com/amanthedorkknight/fifa18-all-player-statistics) repository for reference.
 
 2. Clean the data and prepare a dataset.
 
